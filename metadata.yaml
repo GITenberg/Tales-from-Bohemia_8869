@@ -1,0 +1,34 @@
+_repo: Tales-from-Bohemia_8869
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephens, Robert Neilson
+    alias: Stephens, R. N. (Robert Neilson)
+    birthdate: 1867
+    deathdate: 1906
+    gutenberg_agent_id: '2907'
+    url: http://www.gutenberg.org/2009/agents/2907
+description: Cover -- Contents.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- GITenberg
+tableOfContents: The only girl he ever loved -- A bit of melody -- On the bridge --
+  The triumph of Mogley -- Out of his past -- The new side partner -- The needy outsider
+  -- Time and the tombstone -- He believed them -- A vagrant -- Under an awning --
+  Shandy's revenge -- The whistle -- Whiskers -- The bad break of Tobit McStenger
+  -- The scars -- "La Gitana" -- Transition -- A man who was no good -- Mr. Thornberry's
+  Eldorado -- At the stage door -- "Poor Yorick" -- Coincidence -- Newgag the comedian
+  -- An operatic evening.
+title: Tales from Bohemia
+url: http://www.gutenberg.org/ebooks/8869
